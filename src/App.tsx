@@ -23,7 +23,7 @@ function App() {
         </section>
         
         {/* รายวิชาที่ลงทะเบียน */}
-        <section className="section">
+        <section className="section"> 
           <CourseList />
         </section>
         
